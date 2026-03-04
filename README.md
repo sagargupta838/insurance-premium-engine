@@ -5,7 +5,8 @@ A .NET Core backend service for motor insurance
 premium calculation, built to demonstrate 
 clean architecture principles in an insurance 
 domain context.
->Please Refer Wiki
+Please Refer Wiki for more info
+
 > Work in progress — actively being built
 
 
